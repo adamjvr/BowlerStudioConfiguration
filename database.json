@@ -15,6 +15,9 @@
   },
   "studio-open-web": {},
   "StadiaL8ZV-1c39": {},
+  "MenueSettings": {
+    "printCSG": true
+  },
   "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
