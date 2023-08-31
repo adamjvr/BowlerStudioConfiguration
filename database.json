@@ -15,12 +15,7 @@
   },
   "studio-open-web": {},
   "StadiaL8ZV-1c39": {},
-  "studio-open-git": {
-    "https://github.com/adamjvr/skully.git:src/Skull.groovy": [
-      "https://github.com/adamjvr/skully.git",
-      "src/Skull.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
