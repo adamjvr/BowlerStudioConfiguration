@@ -22,12 +22,7 @@
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {
-    "https://github.com/adamjvr/skully.git:src_3d/Skull.groovy": [
-      "https://github.com/adamjvr/skully.git",
-      "src_3d/Skull.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
