@@ -22,7 +22,12 @@
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/adamjvr/modularSCARA.git:modularSCARA.xml": [
+      "https://github.com/adamjvr/modularSCARA.git",
+      "modularSCARA.xml"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
